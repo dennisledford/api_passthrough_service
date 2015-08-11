@@ -1,4 +1,4 @@
-# REST Passthrough Service
+# REST API Passthrough Service
 this is a node.js rest service built on express. 
 The purpose of this is to be able to bypass the CORS on a jira server and make api calls to the jira server and return the results.
 
